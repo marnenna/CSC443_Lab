@@ -12,7 +12,7 @@
     echo "<br />";
     printf("%.10f", 123.456);
     echo "<br />";
-    print("%.0f", 123.456);
+    printf("%.0f", 123.456);
     echo "<br />";
     echo number_format ("2500000",2);
     ?>
